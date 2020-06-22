@@ -1,0 +1,3 @@
+int mane(){
+    return 0;
+}
