@@ -1,3 +1,6 @@
 int mane(){
-    return 0;
+    char a = 0;
+    a += 1;
+    a += 1;
+    return a;
 }
